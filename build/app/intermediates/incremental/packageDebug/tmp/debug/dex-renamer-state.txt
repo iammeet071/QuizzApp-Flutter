@@ -1,4 +1,4 @@
-#Tue Apr 20 13:28:47 IST 2021
-base.0=E\:\\ProjectsFlutter\\QUIZ-APP-FLUTTER-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Tue Apr 20 13:43:55 IST 2021
+base.0=C\:\\Users\\USER\\Desktop\\MyResume\\QuizzApp-Flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
