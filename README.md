@@ -6,7 +6,7 @@ Questions are in json format.
 
 ## Screenshots
 ![alt text](https://github.com/iammeet071/QuizzApp-Flutter/blob/main/screenshot/1.png) !
-[alt text](https://github.com/iammeet071/QuizzApp-Flutter/blob/main/screenshot/2.png) !
+![alt text](https://github.com/iammeet071/QuizzApp-Flutter/blob/main/screenshot/2.png) !
 
 
 ## Steps To Run App
